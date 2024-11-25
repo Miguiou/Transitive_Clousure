@@ -1,6 +1,10 @@
 # TRANSITIVE CLOUSURE
 
 Here you are going to find everything about transitive clousure in graphs and their applications
+
+## explaining video about transitive clousure and F-W Algorithm
+-[Transitive clousure explained](https://www.youtube.com/watch?v=-Q-3njjKjOI)
+
 bibliography:
 - [Wikipedia](https://en.wikipedia.org/wiki/Transitive_closure)
 - [Reachability](https://en.wikipedia.org/wiki/Reachability)
