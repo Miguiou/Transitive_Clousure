@@ -1,4 +1,4 @@
-#TRANSITIVE CLOUSURE
+# TRANSITIVE CLOUSURE
 
 Here you are going to find everything about transitive clousure in graphs and their applications
 bibliography:
